@@ -1,1 +1,3 @@
-leaving up so you dont have to trust some random download :)
+# PyroClientReup
+
+![GitHub all releases](https://img.shields.io/github/downloads/crystallinqq/PyroClientReup/total)
